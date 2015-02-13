@@ -1,6 +1,6 @@
 {
     "name": "peter/wsa-curl-soap-client",
-    "description": "A WS-Adressing wrapper around curl soap wrapper",
+    "description": "A WS-Addressing wrapper around curl soap wrapper",
     "require": {
         "phaza/curl-soap-client": "0.1",
         "tilleuls/wse-php": "dev-master"
