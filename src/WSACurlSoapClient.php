@@ -7,7 +7,7 @@ use WS\WSASoap;
 /**
 * A wrapper around \SoapClient that uses cURL to make the requests
 */
-class WSECurlSoapClient extends CurlSoapClient
+class WSACurlSoapClient extends CurlSoapClient
 {
 
   const ADD_ACTION    = "addaction";
