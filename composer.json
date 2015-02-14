@@ -12,5 +12,8 @@
             "email": "peter.haza@gmail.com"
         }
     ],
+  	"autoload": {
+  		"classmap": ["src/"]
+  	},
     "minimum-stability": "stable"
 }
