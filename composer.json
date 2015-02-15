@@ -2,7 +2,7 @@
     "name": "phaza/wsa-curl-soap-client",
     "description": "A WS-Addressing wrapper around curl soap wrapper",
     "require": {
-        "phaza/curl-soap-client": "0.1",
+        "phaza/curl-soap-client": "~0.2",
         "tilleuls/wse-php": "~1.0"
     },
     "license": "MIT",
